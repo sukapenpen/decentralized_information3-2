@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sukapenpen/decentralized_information3-2/issues"
   },
-  "homepage": "https://github.com/sukapenpen/decentralized_information3-2#readme"
+  "homepage": "https://github.com/sukapenpen/decentralized_information3-2#readme",
+  "dependencies": {
+    "officegen": "^0.6.0"
+  }
 }
